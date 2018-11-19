@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <h1><p style="color:red;">Michael Haglund</h1>
 <h4>801.201.7078</h4>
 <h4>mhaglund27@gmail.com<h4>
@@ -102,3 +104,4 @@ Vacation Club Planner / Customer Service: assisted clients with vacation booking
 <li>
 Volunteer missionary, District Leader / Trainer.
 </li>
+</html>
